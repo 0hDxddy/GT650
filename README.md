@@ -1,4 +1,4 @@
-# GT650
+
 # Passion Pro Bike
 
 The **Passion Pro** is a popular commuter bike from Hero MotoCorp, known for its stylish design, excellent fuel efficiency, and smooth riding experience. Whether you're commuting through the city or going for a weekend ride, the Passion Pro delivers impressive performance, reliability, and comfort.
