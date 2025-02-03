@@ -50,3 +50,4 @@ The Hero Passion Pro is a reliable and fuel-efficient motorcycle that's perfect 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
+<img src="images/image_name.jpg" alt="description">
